@@ -1,1 +1,1 @@
-# goit-begining
+# goit-beginning
